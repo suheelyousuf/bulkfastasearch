@@ -7,7 +7,7 @@ This tool is particularly useful to the pure biologits who don't have knowledge 
 This tool is more useful if there is text file containg the sequnce ids seprated by commas, you just need to upload that text file in the tool and the all the sequences with these sequences ids get extracted and a seprate fasta file will be created, that will contain only those sequences whose sequence ids are metioned in the input text file.
 
 ## Home Screen 
-![HomeScreen](https://www.researchgate.net/figure/Home-Screen_fig1_333815607)
+![Home Screen](https://github.com/suheelyousuf/bulkfastasearch/blob/master/Home-Screen.png)
 
 ## Installation
 ### To run the tool
