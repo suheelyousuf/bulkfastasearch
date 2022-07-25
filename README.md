@@ -6,6 +6,9 @@ If you have a large fasta file (.fasta or .fasta.gz) and you want to search or e
 This tool is particularly useful to the pure biologits who don't have knowledge to write scripts as this tool comes with a GUI. 
 This tool is more useful if there is text file containg the sequnce ids seprated by commas, you just need to upload that text file in the tool and the all the sequences with these sequences ids get extracted and a seprate fasta file will be created, that will contain only those sequences whose sequence ids are metioned in the input text file.
 
+## Home Screen 
+![HomeScreen](https://www.researchgate.net/figure/Home-Screen_fig1_333815607)
+
 ## Installation
 ### To run the tool
 ``` python bulkfastsearch.py ```
