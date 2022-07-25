@@ -11,7 +11,7 @@ This tool is more useful if there is text file containg the sequnce ids seprated
 
 ## Installation
 ### To run the tool
-``` python bulkfastsearch.py ```
+``` python Bulksearch.py ```
 
 
 #### Dependencies
