@@ -7,10 +7,12 @@ tags:
   - genome
 authors:
   - name: Mohanad A. Ibrahim 
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-8282-6169
     affiliation: 1
   - name: Suheel Yousuf Wani
     orcid: 0000-0002-3793-3504
+    affiliation: 1
+  - name: Fasil 
     affiliation: 1
   affiliations:
   - name: Department of Genome, Ministry of Environment Water & Agriculture, Riyadh, KSA
