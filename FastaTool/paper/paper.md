@@ -12,7 +12,9 @@ authors:
   - name: Suheel Yousuf Wani
     orcid: 0000-0002-3793-3504
     affiliation: 1
-  - name: Fasil Al
+  - name: Faisal M. Alsubaie
+    orcid: 0000-0002-2586-7765
+    email: iamfaisal77@gmail.com
     affiliation: 1
   affiliations:
   - name: Department of Genome, Ministry of Environment Water & Agriculture, Riyadh, KSA
