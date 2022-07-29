@@ -3,6 +3,17 @@
 # By Suheel Yousuf Wani
 
 
+'''
+Module      : Main algorithm
+Description : The main entry point for the program.
+Copyright   : (c) Suheel Yousuf Wani, 29 july 2022 
+License     : MIT 
+Maintainer  : suheelhamdani@gmail.com 
+
+
+'''
+
+
 import sys
 from Bio import SeqIO
 import csv
